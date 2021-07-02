@@ -12,12 +12,12 @@ import org.springframework.boot.test.context.SpringBootTest;
 class SpringbootActivemqApplicationTests {
 
 
-    @Autowired
-    private Queue_Produce queue_produce;
+//    @Autowired
+//    private Queue_Produce queue_produce;
 
-    @Test
-    public void testSend() {
-        queue_produce.produceMsg();
-    }
+//    @Test
+//    public void testSend() {
+//        queue_produce.produceMsg();
+//    }
 
 }

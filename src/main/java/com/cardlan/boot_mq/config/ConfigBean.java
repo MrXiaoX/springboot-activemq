@@ -8,8 +8,8 @@ import org.springframework.jms.annotation.EnableJms;
 
 import javax.jms.Topic;
 
-@Configuration
-@EnableJms
+//@Configuration
+//@EnableJms
 public class ConfigBean {
 
 //    @Value("${myqueue}")

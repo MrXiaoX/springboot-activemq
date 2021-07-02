@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 import javax.jms.Topic;
 import java.util.UUID;
 
-@Component
+//@Component
 public class Topic_Produce {
 
     @Autowired
